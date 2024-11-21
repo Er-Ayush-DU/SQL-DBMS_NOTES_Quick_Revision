@@ -214,7 +214,7 @@ A database index is a data structure that provides a quick lookup of data in a c
 
 ### Thanks for Reading 
 
-<img src="/assets/images/save.png" width="600" height="200">
+<img src="assets/save.png" width="600" height="200">
 
 ---
 
